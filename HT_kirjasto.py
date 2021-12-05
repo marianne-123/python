@@ -1,10 +1,8 @@
 ######################################################################
-# CT60A0203 Ohjelmoinnin perusteet
-# Tekijä: Marianne Seppänen
-# Opiskelijanumero: 568655 
+# CT60A0203 Ohjelmoinnin perusteet kurssin harjoitustyö
+# Tekijä: Marianne Seppänen 
 # Päivämäärä: 18.11.2019
-# Yhteistyö ja lähteet, nimi ja yhteistyön muoto: Assarin apu päivien paisteajan laskemissa
-# Harjoitustyön kirjasto
+# Harjoitustyön kirjasto löytyy tästä tiedostosta. Pääohjelma löytyy tiedostosta Harkkatyo.py
 ######################################################################
 
 import datetime
