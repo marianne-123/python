@@ -1,10 +1,8 @@
 ######################################################################
-# CT60A0203 Ohjelmoinnin perusteet
+# CT60A0203 Ohjelmoinnin perusteet kurssin harjoitustyö
 # Tekijä: Marianne Seppänen
-# Opiskelijanumero: 568655 
 # Päivämäärä: 8.11.2019
-# Yhteistyö ja lähteet, nimi ja yhteistyön muoto:
-# Harjoitustyö
+# Tiedostosta HT_kirjasto löytyy alihojelmien koodit, tässä tiedostossa vain päävalikko
 ######################################################################
 
 import HT_kirjasto
